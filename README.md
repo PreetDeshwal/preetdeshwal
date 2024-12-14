@@ -2,10 +2,7 @@
 <h3 align="center">A passionate software engineer and full stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1739404800&v=beta&t=kuk-PS6gPsHsIociegjCo5oo-V7itoKoNPosaeIPxdU">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetdeshwal&label=Profile%20views&color=0e75b6&style=flat" alt="preetdeshwal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preetdeshwal" alt="preetdeshwal" /></a> </p>
 
 - 🔭 I’m currently working on [Chalocab](https://chalocab.netlify.app/)
 
@@ -28,4 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=preetdeshwal&show_icons=true&locale=en" alt="preetdeshwal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preetdeshwal&" alt="preetdeshwal" /></p>
+>
 
